@@ -1,0 +1,30 @@
+
+.navbar {
+    background-color: #ACFA58;
+}
+.nav-item:hover{
+    background-color: #8ffdaa;
+    font-weight: bold;
+}
+.conteudo{
+    background-color: #CEF6D8;
+    color: darkgreen;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+.margim{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.mod{
+    background-color: #8ffdaa;
+    border: 1px solid black;
+    height: 150px;
+    border-radius: 10px;
+    vertical-align: -webkit-baseline-middle;
+}
+.footer{
+    text-align: center;
+    background-color: #ACFA58;
+    height: 60px;
+    padding-top: 20px;
+}
